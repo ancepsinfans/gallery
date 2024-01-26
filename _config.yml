@@ -3,14 +3,14 @@
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: Zach Bullard's Gallery
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: Zach Bullard
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: ROWS
+layout_style: SQUARES
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: ancepsinfans
 
 ######################
 # END OF CONFIG CODE #
@@ -42,7 +42,7 @@ name: Gallery
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Andy Zhang
+author: Zach Bullard
 
 # Your email if you want it to be linked on the contact page
 author_email: andzhng@gmail.com
