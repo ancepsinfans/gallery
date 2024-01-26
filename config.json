@@ -1,164 +1,390 @@
 {
-  "Fomapan": [
+  "Kodak C200": [
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0010_###.jpg",
-      "compressed_path": "./photos/Fomapan/0010_###.min.jpg",
+      "path": "./photos/Kodak C200/0004_2A.jpg",
+      "compressed_path": "./photos/Kodak C200/0004_2A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0010_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0004_2A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0009_###.jpg",
-      "compressed_path": "./photos/Fomapan/0009_###.min.jpg",
+      "path": "./photos/Kodak C200/0039_E.jpg",
+      "compressed_path": "./photos/Kodak C200/0039_E.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0009_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0039_E.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0019_###.jpg",
-      "compressed_path": "./photos/Fomapan/0019_###.min.jpg",
+      "path": "./photos/Kodak C200/0003_1A.jpg",
+      "compressed_path": "./photos/Kodak C200/0003_1A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0019_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0003_1A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0036_###.jpg",
-      "compressed_path": "./photos/Fomapan/0036_###.min.jpg",
+      "path": "./photos/Kodak C200/0009_7A.jpg",
+      "compressed_path": "./photos/Kodak C200/0009_7A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0036_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0009_7A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0018_###.jpg",
-      "compressed_path": "./photos/Fomapan/0018_###.min.jpg",
+      "path": "./photos/Kodak C200/0034_32.jpg",
+      "compressed_path": "./photos/Kodak C200/0034_32.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0018_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0034_32.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0008_###.jpg",
-      "compressed_path": "./photos/Fomapan/0008_###.min.jpg",
+      "path": "./photos/Kodak C200/0036_34.jpg",
+      "compressed_path": "./photos/Kodak C200/0036_34.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0008_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0036_34.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0037_###.jpg",
-      "compressed_path": "./photos/Fomapan/0037_###.min.jpg",
+      "path": "./photos/Kodak C200/0029_27A.jpg",
+      "compressed_path": "./photos/Kodak C200/0029_27A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0037_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0029_27A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0001_###.jpg",
-      "compressed_path": "./photos/Fomapan/0001_###.min.jpg",
+      "path": "./photos/Kodak C200/0006_4A.jpg",
+      "compressed_path": "./photos/Kodak C200/0006_4A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0001_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0006_4A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0035_###.jpg",
-      "compressed_path": "./photos/Fomapan/0035_###.min.jpg",
+      "path": "./photos/Kodak C200/0038_36.jpg",
+      "compressed_path": "./photos/Kodak C200/0038_36.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0035_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0038_36.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0003_###.jpg",
-      "compressed_path": "./photos/Fomapan/0003_###.min.jpg",
+      "path": "./photos/Kodak C200/0002_0A.jpg",
+      "compressed_path": "./photos/Kodak C200/0002_0A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0003_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0002_0A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0002_###.jpg",
-      "compressed_path": "./photos/Fomapan/0002_###.min.jpg",
+      "path": "./photos/Kodak C200/0008_6A.jpg",
+      "compressed_path": "./photos/Kodak C200/0008_6A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0002_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0008_6A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0034_###.jpg",
-      "compressed_path": "./photos/Fomapan/0034_###.min.jpg",
+      "path": "./photos/Kodak C200/0011_9A.jpg",
+      "compressed_path": "./photos/Kodak C200/0011_9A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0034_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0011_9A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0038_###.jpg",
-      "compressed_path": "./photos/Fomapan/0038_###.min.jpg",
+      "path": "./photos/Kodak C200/0005_3A.jpg",
+      "compressed_path": "./photos/Kodak C200/0005_3A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0038_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0005_3A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0007_###.jpg",
-      "compressed_path": "./photos/Fomapan/0007_###.min.jpg",
+      "path": "./photos/Kodak C200/0001_00A.jpg",
+      "compressed_path": "./photos/Kodak C200/0001_00A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0007_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0001_00A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0039_###.jpg",
-      "compressed_path": "./photos/Fomapan/0039_###.min.jpg",
+      "path": "./photos/Kodak C200/0037_35.jpg",
+      "compressed_path": "./photos/Kodak C200/0037_35.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0039_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0037_35.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0006_###.jpg",
-      "compressed_path": "./photos/Fomapan/0006_###.min.jpg",
+      "path": "./photos/Kodak C200/0007_5A.jpg",
+      "compressed_path": "./photos/Kodak C200/0007_5A.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0006_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0007_5A.placeholder.jpg"
     },
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan/0020_###.jpg",
-      "compressed_path": "./photos/Fomapan/0020_###.min.jpg",
+      "path": "./photos/Kodak C200/0035_33.jpg",
+      "compressed_path": "./photos/Kodak C200/0035_33.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0020_###.placeholder.jpg"
+      "placeholder_path": "./photos/Kodak C200/0035_33.placeholder.jpg"
+    }
+  ],
+  "Ilford Pan 400": [
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240005.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240005.placeholder.jpg"
     },
     {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan/0004_###.jpg",
-      "compressed_path": "./photos/Fomapan/0004_###.min.jpg",
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240011.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240011.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0004_###.placeholder.jpg"
+      "placeholder_path": "./photos/Ilford Pan 400/000021240011.placeholder.jpg"
     },
     {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan/0040_###.jpg",
-      "compressed_path": "./photos/Fomapan/0040_###.min.jpg",
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240010.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240010.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0040_###.placeholder.jpg"
+      "placeholder_path": "./photos/Ilford Pan 400/000021240010.placeholder.jpg"
     },
     {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan/0005_###.jpg",
-      "compressed_path": "./photos/Fomapan/0005_###.min.jpg",
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240004.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240004.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Fomapan/0005_###.placeholder.jpg"
+      "placeholder_path": "./photos/Ilford Pan 400/000021240004.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240012.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240012.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240012.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240006.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240006.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240006.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240007.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240007.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240013.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240013.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240013.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240017.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240017.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240017.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240003.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240003.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240003.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240002.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240002.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240016.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240016.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240016.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240014.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240014.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240014.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240015.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240015.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240015.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240001.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240001.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240024.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240024.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240024.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240019.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240019.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240019.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240025.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240025.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240025.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240033.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240033.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240033.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240027.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240027.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240027.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240026.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240026.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240026.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240032.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240032.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240032.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240036.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240036.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240036.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240022.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240022.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240022.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240023.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240023.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240023.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240037.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240037.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240037.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240009.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240009.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240009.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240021.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240021.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240021.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240035.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240035.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240035.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240034.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240034.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240034.placeholder.jpg"
+    },
+    {
+      "width": 3130,
+      "height": 2075,
+      "path": "./photos/Ilford Pan 400/000021240020.jpg",
+      "compressed_path": "./photos/Ilford Pan 400/000021240020.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ilford Pan 400/000021240020.placeholder.jpg"
     }
   ]
 }
