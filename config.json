@@ -3,7 +3,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0010_###.jpg",
+      "path": "./photos/Fomapan 200/0010_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0010_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0010_###.placeholder.jpg"
@@ -11,7 +11,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0019_###.jpg",
+      "path": "./photos/Fomapan 200/0019_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0019_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0019_###.placeholder.jpg"
@@ -19,7 +19,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0036_###.jpg",
+      "path": "./photos/Fomapan 200/0036_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0036_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0036_###.placeholder.jpg"
@@ -27,7 +27,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0037_###.jpg",
+      "path": "./photos/Fomapan 200/0037_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0037_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0037_###.placeholder.jpg"
@@ -35,7 +35,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0035_###.jpg",
+      "path": "./photos/Fomapan 200/0035_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0035_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0035_###.placeholder.jpg"
@@ -43,7 +43,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0034_###.jpg",
+      "path": "./photos/Fomapan 200/0034_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0034_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0034_###.placeholder.jpg"
@@ -51,7 +51,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0038_###.jpg",
+      "path": "./photos/Fomapan 200/0038_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0038_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0038_###.placeholder.jpg"
@@ -59,7 +59,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0007_###.jpg",
+      "path": "./photos/Fomapan 200/0007_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0007_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0007_###.placeholder.jpg"
@@ -67,7 +67,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0006_###.jpg",
+      "path": "./photos/Fomapan 200/0006_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0006_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0006_###.placeholder.jpg"
@@ -75,7 +75,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0020_###.jpg",
+      "path": "./photos/Fomapan 200/0020_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0020_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0020_###.placeholder.jpg"
@@ -83,7 +83,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Fomapan 200/0004_###.jpg",
+      "path": "./photos/Fomapan 200/0004_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 200/0004_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 200/0004_###.placeholder.jpg"
@@ -93,7 +93,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0039_E.jpg",
+      "path": "./photos/Kodak C200/0039_E.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0039_E.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0039_E.placeholder.jpg"
@@ -101,7 +101,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0034_32.jpg",
+      "path": "./photos/Kodak C200/0034_32.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0034_32.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0034_32.placeholder.jpg"
@@ -109,7 +109,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0036_34.jpg",
+      "path": "./photos/Kodak C200/0036_34.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0036_34.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0036_34.placeholder.jpg"
@@ -117,7 +117,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0029_27A.jpg",
+      "path": "./photos/Kodak C200/0029_27A.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0029_27A.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0029_27A.placeholder.jpg"
@@ -125,7 +125,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0006_4A.jpg",
+      "path": "./photos/Kodak C200/0006_4A.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0006_4A.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0006_4A.placeholder.jpg"
@@ -133,7 +133,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0038_36.jpg",
+      "path": "./photos/Kodak C200/0038_36.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0038_36.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0038_36.placeholder.jpg"
@@ -141,7 +141,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0008_6A.jpg",
+      "path": "./photos/Kodak C200/0008_6A.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0008_6A.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0008_6A.placeholder.jpg"
@@ -149,7 +149,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0011_9A.jpg",
+      "path": "./photos/Kodak C200/0011_9A.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0011_9A.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0011_9A.placeholder.jpg"
@@ -157,7 +157,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0005_3A.jpg",
+      "path": "./photos/Kodak C200/0005_3A.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0005_3A.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0005_3A.placeholder.jpg"
@@ -165,7 +165,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0037_35.jpg",
+      "path": "./photos/Kodak C200/0037_35.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0037_35.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0037_35.placeholder.jpg"
@@ -173,7 +173,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0007_5A.jpg",
+      "path": "./photos/Kodak C200/0007_5A.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0007_5A.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0007_5A.placeholder.jpg"
@@ -181,7 +181,7 @@
     {
       "width": 6774,
       "height": 4492,
-      "path": "./photos/Kodak C200/0035_33.jpg",
+      "path": "./photos/Kodak C200/0035_33.compressed.jpg",
       "compressed_path": "./photos/Kodak C200/0035_33.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Kodak C200/0035_33.placeholder.jpg"
@@ -191,7 +191,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240019.jpg",
+      "path": "./photos/Lomography C400/000017240019.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240019.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240019.placeholder.jpg"
@@ -199,7 +199,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240026.jpg",
+      "path": "./photos/Lomography C400/000017240026.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240026.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240026.placeholder.jpg"
@@ -207,7 +207,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240009.jpg",
+      "path": "./photos/Lomography C400/000017240009.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240009.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240009.placeholder.jpg"
@@ -215,7 +215,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240034.jpg",
+      "path": "./photos/Lomography C400/000017240034.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240034.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240034.placeholder.jpg"
@@ -223,7 +223,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240005.jpg",
+      "path": "./photos/Lomography C400/000017240005.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240005.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240005.placeholder.jpg"
@@ -231,7 +231,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240004.jpg",
+      "path": "./photos/Lomography C400/000017240004.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240004.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240004.placeholder.jpg"
@@ -239,7 +239,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240006.jpg",
+      "path": "./photos/Lomography C400/000017240006.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240006.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240006.placeholder.jpg"
@@ -247,7 +247,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240007.jpg",
+      "path": "./photos/Lomography C400/000017240007.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240007.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240007.placeholder.jpg"
@@ -255,7 +255,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240003.jpg",
+      "path": "./photos/Lomography C400/000017240003.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240003.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240003.placeholder.jpg"
@@ -263,7 +263,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240002.jpg",
+      "path": "./photos/Lomography C400/000017240002.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240002.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240002.placeholder.jpg"
@@ -271,7 +271,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240028.jpg",
+      "path": "./photos/Lomography C400/000017240028.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240028.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240028.placeholder.jpg"
@@ -279,7 +279,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Lomography C400/000017240029.jpg",
+      "path": "./photos/Lomography C400/000017240029.compressed.jpg",
       "compressed_path": "./photos/Lomography C400/000017240029.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Lomography C400/000017240029.placeholder.jpg"
@@ -289,7 +289,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240005.jpg",
+      "path": "./photos/Ilford Pan 400/000021240005.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240005.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240005.placeholder.jpg"
@@ -297,7 +297,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240011.jpg",
+      "path": "./photos/Ilford Pan 400/000021240011.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240011.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240011.placeholder.jpg"
@@ -305,7 +305,7 @@
     {
       "width": 2075,
       "height": 3130,
-      "path": "./photos/Ilford Pan 400/000021240004.jpg",
+      "path": "./photos/Ilford Pan 400/000021240004.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240004.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240004.placeholder.jpg"
@@ -313,7 +313,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240012.jpg",
+      "path": "./photos/Ilford Pan 400/000021240012.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240012.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240012.placeholder.jpg"
@@ -321,7 +321,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240006.jpg",
+      "path": "./photos/Ilford Pan 400/000021240006.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240006.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240006.placeholder.jpg"
@@ -329,7 +329,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240013.jpg",
+      "path": "./photos/Ilford Pan 400/000021240013.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240013.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240013.placeholder.jpg"
@@ -337,7 +337,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240017.jpg",
+      "path": "./photos/Ilford Pan 400/000021240017.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240017.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240017.placeholder.jpg"
@@ -345,7 +345,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240003.jpg",
+      "path": "./photos/Ilford Pan 400/000021240003.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240003.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240003.placeholder.jpg"
@@ -353,7 +353,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240002.jpg",
+      "path": "./photos/Ilford Pan 400/000021240002.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240002.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240002.placeholder.jpg"
@@ -361,7 +361,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240016.jpg",
+      "path": "./photos/Ilford Pan 400/000021240016.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240016.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240016.placeholder.jpg"
@@ -369,7 +369,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240014.jpg",
+      "path": "./photos/Ilford Pan 400/000021240014.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240014.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240014.placeholder.jpg"
@@ -377,7 +377,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240015.jpg",
+      "path": "./photos/Ilford Pan 400/000021240015.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240015.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240015.placeholder.jpg"
@@ -385,7 +385,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240001.jpg",
+      "path": "./photos/Ilford Pan 400/000021240001.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240001.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240001.placeholder.jpg"
@@ -393,7 +393,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240025.jpg",
+      "path": "./photos/Ilford Pan 400/000021240025.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240025.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240025.placeholder.jpg"
@@ -401,7 +401,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240033.jpg",
+      "path": "./photos/Ilford Pan 400/000021240033.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240033.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240033.placeholder.jpg"
@@ -409,7 +409,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240032.jpg",
+      "path": "./photos/Ilford Pan 400/000021240032.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240032.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240032.placeholder.jpg"
@@ -417,7 +417,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240036.jpg",
+      "path": "./photos/Ilford Pan 400/000021240036.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240036.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240036.placeholder.jpg"
@@ -425,7 +425,7 @@
     {
       "width": 3130,
       "height": 2075,
-      "path": "./photos/Ilford Pan 400/000021240037.jpg",
+      "path": "./photos/Ilford Pan 400/000021240037.compressed.jpg",
       "compressed_path": "./photos/Ilford Pan 400/000021240037.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240037.placeholder.jpg"
@@ -435,7 +435,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0010_###.jpg",
+      "path": "./photos/Fomapan 400/0010_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0010_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0010_###.placeholder.jpg"
@@ -443,7 +443,7 @@
     {
       "width": 2048,
       "height": 3089,
-      "path": "./photos/Fomapan 400/0019_###.jpg",
+      "path": "./photos/Fomapan 400/0019_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0019_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0019_###.placeholder.jpg"
@@ -451,7 +451,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0008_###.jpg",
+      "path": "./photos/Fomapan 400/0008_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0008_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0008_###.placeholder.jpg"
@@ -459,7 +459,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0011_###.jpg",
+      "path": "./photos/Fomapan 400/0011_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0011_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0011_###.placeholder.jpg"
@@ -467,7 +467,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0025_###.jpg",
+      "path": "./photos/Fomapan 400/0025_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0025_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0025_###.placeholder.jpg"
@@ -475,7 +475,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0003_###.jpg",
+      "path": "./photos/Fomapan 400/0003_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0003_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0003_###.placeholder.jpg"
@@ -483,7 +483,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0002_###.jpg",
+      "path": "./photos/Fomapan 400/0002_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0002_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0002_###.placeholder.jpg"
@@ -491,7 +491,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0012_###.jpg",
+      "path": "./photos/Fomapan 400/0012_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0012_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0012_###.placeholder.jpg"
@@ -499,7 +499,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0024_###.jpg",
+      "path": "./photos/Fomapan 400/0024_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0024_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0024_###.placeholder.jpg"
@@ -507,7 +507,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0021_###.jpg",
+      "path": "./photos/Fomapan 400/0021_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0021_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0021_###.placeholder.jpg"
@@ -515,7 +515,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0028_###.jpg",
+      "path": "./photos/Fomapan 400/0028_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0028_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0028_###.placeholder.jpg"
@@ -523,7 +523,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0007_###.jpg",
+      "path": "./photos/Fomapan 400/0007_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0007_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0007_###.placeholder.jpg"
@@ -531,7 +531,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0006_###.jpg",
+      "path": "./photos/Fomapan 400/0006_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0006_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0006_###.placeholder.jpg"
@@ -539,7 +539,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0016_###.jpg",
+      "path": "./photos/Fomapan 400/0016_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0016_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0016_###.placeholder.jpg"
@@ -547,7 +547,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0020_###.jpg",
+      "path": "./photos/Fomapan 400/0020_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0020_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0020_###.placeholder.jpg"
@@ -555,7 +555,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0004_###.jpg",
+      "path": "./photos/Fomapan 400/0004_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0004_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0004_###.placeholder.jpg"
@@ -563,7 +563,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0022_###.jpg",
+      "path": "./photos/Fomapan 400/0022_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0022_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0022_###.placeholder.jpg"
@@ -571,7 +571,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0023_###.jpg",
+      "path": "./photos/Fomapan 400/0023_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0023_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0023_###.placeholder.jpg"
@@ -579,7 +579,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0005_###.jpg",
+      "path": "./photos/Fomapan 400/0005_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0005_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0005_###.placeholder.jpg"
@@ -587,7 +587,7 @@
     {
       "width": 3089,
       "height": 2048,
-      "path": "./photos/Fomapan 400/0015_###.jpg",
+      "path": "./photos/Fomapan 400/0015_###.compressed.jpg",
       "compressed_path": "./photos/Fomapan 400/0015_###.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Fomapan 400/0015_###.placeholder.jpg"
