@@ -1,94 +1,4 @@
 {
-  "Fomapan 200": [
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0006.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0006.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0006.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0007.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0007.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0007.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0038.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0038.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0038.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0010.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0010.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0010.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0004.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0004.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0004.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0019.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0019.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0019.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0035.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0035.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0035.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0034.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0034.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0034.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0020.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0020.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0020.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0036.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0036.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0036.placeholder.jpg"
-    },
-    {
-      "width": 6774,
-      "height": 4492,
-      "path": "./photos/Fomapan 200/0037.compressed.jpg",
-      "compressed_path": "./photos/Fomapan 200/0037.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fomapan 200/0037.placeholder.jpg"
-    }
-  ],
   "Kodak C200": [
     {
       "width": 6774,
@@ -429,6 +339,96 @@
       "compressed_path": "./photos/Ilford Pan 400/000021240037.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Ilford Pan 400/000021240037.placeholder.jpg"
+    }
+  ],
+  "Fomapan 200": [
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0006.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0006.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0006.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0007.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0007.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0038.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0038.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0038.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0010.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0010.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0004.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0004.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0004.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0019.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0019.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0019.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0035.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0035.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0035.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0034.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0034.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0034.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0020.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0020.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0020.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0036.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0036.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0036.placeholder.jpg"
+    },
+    {
+      "width": 6774,
+      "height": 4492,
+      "path": "./photos/Fomapan 200/0037.compressed.jpg",
+      "compressed_path": "./photos/Fomapan 200/0037.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fomapan 200/0037.placeholder.jpg"
     }
   ],
   "Fomapan 400": [
