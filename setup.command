@@ -19,9 +19,9 @@ if [[ "$OSTYPE" == "darwin"* && -x "$(command -v sips)" ]]; then
 
     # low res version of image
   python $SCRIPT_PATH/tools/duplicate.py compressed
-  sips -Z 3000 $SCRIPT_PATH/photos/**/*.compressed.jpeg &>/dev/null
-  sips -Z 3000 $SCRIPT_PATH/photos/**/*.compressed.png &>/dev/null
-  sips -Z 3000 $SCRIPT_PATH/photos/**/*.compressed.jpg &>/dev/null
+  sips -Z 1500 $SCRIPT_PATH/photos/**/*.compressed.jpeg &>/dev/null
+  sips -Z 1500 $SCRIPT_PATH/photos/**/*.compressed.png &>/dev/null
+  sips -Z 1500 $SCRIPT_PATH/photos/**/*.compressed.jpg &>/dev/null
 fi
 
 if [ -n "$(uname -a | grep Ubuntu)" -a -x "$(command -v mogrify)" ]; then
